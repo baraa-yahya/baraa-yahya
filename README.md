@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm currently working in the LHCb group at IJClab orsay in France.
+I am a student of Paris-Saclay University, and next year I will be doing M2 ICFP theoretical Physics wish me good luck!! :))
 
 <!--
 **baraa-yahya/baraa-yahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
