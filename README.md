@@ -1,8 +1,8 @@
 ## Hi there 👋
-A High-Energy physicist researcher to be :)
-I'm currently working in the LHCb group at IJClab Orsay in France.
-I am a master's student at Paris-Saclay University, 
-I will be doing M2 ICFP theoretical Physics wish me good luck!! :))
+- A High-Energy physicist researcher to be :)
+- I'm currently working in the LHCb group at IJClab Orsay in France.
+- I am a master's student at Paris-Saclay University, 
+- I will be doing M2 ICFP theoretical Physics wish me good luck!! :))
 
 <!--
 **baraa-yahya/baraa-yahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
